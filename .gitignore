@@ -35,3 +35,7 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+exalted-pattern-424313-j3-50d424f2c092.json
+
+.terraform.lock.hcl
