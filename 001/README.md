@@ -1,4 +1,4 @@
-# 001
+# 001 VM
 
 Every TF_* environment variable (print them with `env`) will be used for defined Terraform input variables.
 
