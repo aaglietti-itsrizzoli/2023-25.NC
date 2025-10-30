@@ -6,10 +6,10 @@ Let's play with Terraform and GCP
 id-023-25-nc@exalted-pattern-424313-j3.iam.gserviceaccount.com
 
 ## PROJECT ID
-exalted-pattern-424313-j3
+studio-3841315996-613af
 
 ## GOOGLE CLOUD CONSOLE
-https://console.cloud.google.com/welcome?project=exalted-pattern-424313-j3
+https://console.cloud.google.com/welcome?project=studio-3841315996-613af
 
 ## TUTORIALS
 https://cloud.google.com/functions/docs/tutorials/terraform?hl=en
