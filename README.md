@@ -8,6 +8,9 @@ id-023-25-nc@exalted-pattern-424313-j3.iam.gserviceaccount.com
 ## PROJECT ID
 exalted-pattern-424313-j3
 
+## GOOGLE CLOUD CONSOLE
+https://console.cloud.google.com/welcome?project=exalted-pattern-424313-j3
+
 ## TUTORIALS
 https://cloud.google.com/functions/docs/tutorials/terraform?hl=en
 
